@@ -1,0 +1,5 @@
+C:\Miguel-C#\Exercícios\Ex1\bin\Debug\Ex1.exe.config
+C:\Miguel-C#\Exercícios\Ex1\bin\Debug\Ex1.exe
+C:\Miguel-C#\Exercícios\Ex1\bin\Debug\Ex1.pdb
+C:\Miguel-C#\Exercícios\Ex1\obj\Debug\Ex1.exe
+C:\Miguel-C#\Exercícios\Ex1\obj\Debug\Ex1.pdb

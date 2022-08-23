@@ -1,0 +1,6 @@
+C:\Miguel-C#\Exercícios\Exercícios\bin\Debug\Exercícios.exe.config
+C:\Miguel-C#\Exercícios\Exercícios\bin\Debug\Exercícios.exe
+C:\Miguel-C#\Exercícios\Exercícios\bin\Debug\Exercícios.pdb
+C:\Miguel-C#\Exercícios\Exercícios\obj\Debug\Ex2.csprojResolveAssemblyReference.cache
+C:\Miguel-C#\Exercícios\Exercícios\obj\Debug\Exercícios.exe
+C:\Miguel-C#\Exercícios\Exercícios\obj\Debug\Exercícios.pdb
