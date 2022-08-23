@@ -1,0 +1,6 @@
+C:\Miguel-C#\Exercícios\Ex5\bin\Debug\Ex5.exe.config
+C:\Miguel-C#\Exercícios\Ex5\bin\Debug\Ex5.exe
+C:\Miguel-C#\Exercícios\Ex5\bin\Debug\Ex5.pdb
+C:\Miguel-C#\Exercícios\Ex5\obj\Debug\Ex5.csprojResolveAssemblyReference.cache
+C:\Miguel-C#\Exercícios\Ex5\obj\Debug\Ex5.exe
+C:\Miguel-C#\Exercícios\Ex5\obj\Debug\Ex5.pdb

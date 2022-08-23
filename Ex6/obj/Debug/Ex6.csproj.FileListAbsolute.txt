@@ -1,0 +1,5 @@
+C:\Miguel-C#\Exercícios\Ex6\bin\Debug\Ex6.exe.config
+C:\Miguel-C#\Exercícios\Ex6\bin\Debug\Ex6.exe
+C:\Miguel-C#\Exercícios\Ex6\bin\Debug\Ex6.pdb
+C:\Miguel-C#\Exercícios\Ex6\obj\Debug\Ex6.exe
+C:\Miguel-C#\Exercícios\Ex6\obj\Debug\Ex6.pdb
