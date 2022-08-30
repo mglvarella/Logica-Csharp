@@ -1,0 +1,6 @@
+C:\Miguel-C#\Exercícios\Ex8\bin\Debug\Ex8.exe.config
+C:\Miguel-C#\Exercícios\Ex8\bin\Debug\Ex8.exe
+C:\Miguel-C#\Exercícios\Ex8\bin\Debug\Ex8.pdb
+C:\Miguel-C#\Exercícios\Ex8\obj\Debug\Ex8.csprojResolveAssemblyReference.cache
+C:\Miguel-C#\Exercícios\Ex8\obj\Debug\Ex8.exe
+C:\Miguel-C#\Exercícios\Ex8\obj\Debug\Ex8.pdb
